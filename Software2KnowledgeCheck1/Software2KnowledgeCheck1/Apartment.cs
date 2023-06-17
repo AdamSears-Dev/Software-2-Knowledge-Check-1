@@ -13,4 +13,4 @@ namespace Software2KnowledgeCheck1
 
         public bool HasParking { get; set; }
     }
-}
+}   
